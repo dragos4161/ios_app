@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562482223293",
+    "project_id": "datc-authentication",
+    "storage_bucket": "datc-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562482223293:android:60289c3a5b0762e8a1bfd4",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562482223293-493vl6u1m2j3lj1rhd3e70i0rm2i0a1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlApNFXB01HOTBUqYHb62JsND6NvDB0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562482223293-493vl6u1m2j3lj1rhd3e70i0rm2i0a1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
